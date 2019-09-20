@@ -28,6 +28,7 @@
 	<!-- 동적 웹 프로그래밍!!!  -->
 	<br/>
 	<br/>
+	<a href='/helloweb/form.jsp '>폼 보기(Servlet)</a>
 	<table border = '1' cellspacing='0' cellpadding='2'>
 		<tr>
 			<td>cell(0,0)</td>
